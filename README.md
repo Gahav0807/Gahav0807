@@ -29,7 +29,7 @@
 
 ## 🚀 Проекты
 
-📁 Портфолио → [vdumanyan.vercel.app](https://vdumanyan.vercel.app)
+📁 Портфолио → [vdumanyan.portfolio](https://vdumanyan.vercel.app)
 
 - 🛒 **Интернет-магазин (PalermoLight)** — с корзиной, фильтрацией и системой заказов  
 - 🎬 **Онлайн-кинотеатр (S-Film)** — с загрузкой фильмов, плейерами и лайками  
@@ -44,6 +44,6 @@
 
 ## 📬 Контакты
 
-- 💬 Telegram: [@vdumanyan](https://t.me/vdumanyan)  
+- 💬 Telegram: [t.me/vdumanyan](https://t.me/vdumanyan)  
 - 🌐 GitHub: [github.com/Gahav0807](https://github.com/Gahav0807)
 
