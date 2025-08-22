@@ -1,8 +1,8 @@
-# Привет! Я Duma 👋
+# Hi, I'm Duma 👋
 
-👨‍💻 Middle веб-разработчик
+👨‍💻 Middle Web-Developer
 
-## 🛠 Стек
+## 🛠 Tech Stack
 
 **🎨 Frontend**  
 `HTML` • `CSS` • `JavaScript` • `TypeScript`  
@@ -18,13 +18,13 @@
 
 ---
 
-## 🚀 Проекты
+## 🚀 Projects
 
-📁 Портфолио → [vdumanyan.portfolio](https://dumanyan.vercel.app)
+📁 Portfolio → [vdumanyan.portfolio](https://dumanyan.vercel.app)
 
 ---
 
-## 📬 Контакты
+## 📬 Contacts
 
 - 💬 Telegram: [t.me/vdumanyan](https://t.me/vdumanyan)  
 
